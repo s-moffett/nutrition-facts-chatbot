@@ -1,0 +1,4 @@
+anthropic
+BeautifulSoup4
+chromadb
+requests
