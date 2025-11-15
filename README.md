@@ -15,3 +15,7 @@ I recommend using a venv with Python 3.12.
 - Are there foods that are best for migraines?
 - What should I eat to lower my blood pressure?
 - Are there foods that are best for anxiety?
+
+## Example responses
+
+See the `example_responses` directory for several example responses.
